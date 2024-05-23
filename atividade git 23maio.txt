@@ -2,3 +2,8 @@ x=10
 y=15
 resultado=x+y
 print (resultado)
+
+x=288
+y=233
+resultado=x-y
+print (resultado)
